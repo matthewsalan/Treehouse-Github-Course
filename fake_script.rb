@@ -1,0 +1,2 @@
+class FakeScript
+end
