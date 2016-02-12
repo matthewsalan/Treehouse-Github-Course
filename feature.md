@@ -1,5 +1,5 @@
 ## Awesome feature
 
-## Not so awesome merge conflict
-
 ## Getting better at git workflow
+
+## More great features
